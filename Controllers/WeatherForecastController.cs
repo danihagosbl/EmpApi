@@ -8,7 +8,7 @@ namespace EmpApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Cloudy", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing", "Cloudy", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "peace nice weather"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
